@@ -1,0 +1,35 @@
+{
+  "name": "kaidezen-com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@emotion/react": "^11.10.5",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "framer-motion": "^7.6.10",
+    "gsap": "^3.11.3",
+    "next": "13.0.5",
+    "rc-drawer": "^6.0.1",
+    "react": "18.2.0",
+    "react-calendly": "^4.1.0",
+    "react-custom-scrollbars-2": "^4.5.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.6.0",
+    "react-multi-carousel": "^2.8.2",
+    "react-player": "^2.11.0",
+    "react-responsive": "^9.0.0",
+    "react-scroll": "^1.8.8",
+    "react-spinners": "^0.13.6",
+    "react-stickynode": "^4.1.0",
+    "swiper": "^8.4.5",
+    "theme-ui": "^0.15.4",
+    "typeface-dm-sans": "^1.1.13"
+  }
+}
